@@ -1,0 +1,8 @@
+ny_taxi_postgres_data/
+ny_taxi_data/
+*.ipynb_checkpoints/
+*.DS_Store
+
+.terraform/
+.terraform.lock.hcl
+*.tfstate*
