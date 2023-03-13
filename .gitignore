@@ -6,3 +6,6 @@ ny_taxi_data/
 .terraform/
 .terraform.lock.hcl
 *.tfstate*
+
+__pycache__/
+data/
